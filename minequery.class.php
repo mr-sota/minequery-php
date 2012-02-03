@@ -110,3 +110,4 @@ class Minequery {
 		return $query;
 	}
 }
+?>
